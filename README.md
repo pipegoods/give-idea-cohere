@@ -4,6 +4,10 @@ Genera una idea aleatoria con la propia API de [co:here](https://cohere.ai/) par
 
 Este proyecto te puede servir como template para crear el tuyo...
 
+## inspiración
+
+La verdad no se me ocurría nada para mi propuesta, así que decidí crear un proyecto que me ayudara a generar ideas.
+
 ## Tecnologías
 - React JS
 - Vite
