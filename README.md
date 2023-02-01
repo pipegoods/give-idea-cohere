@@ -17,5 +17,6 @@ Luego moodificar el archivo `.env.example` colocando tu `API KEY` de co:here y c
 
 ## Posibles updates
 - [ ] Guardar en el localstorage las ideas generadas
+- [ ] Hacer el responsive
 
 😎 Gracias por dejar tu estrellita.
